@@ -123,7 +123,7 @@ nav_order: 2
 <h2 class="year">working papers</h2>
 <ol>
    <li>
-  Slough, Tara. 2022. “Bureaucratic Quality and Electoral Accountability.” <br>
+  Slough, Tara. 2023. “Bureaucratic Quality and Electoral Accountability.” Conditionally accepted, <i>American Political Science Review</i><br>
    <small>&#8594; Winner, 2022 Fiona McGillivray Award for Best Paper in Political Economy Presented at APSA 2021</small><br>
 
 
@@ -155,35 +155,15 @@ nav_order: 2
 </div>
   </li>
        <li>
-  Slough, Tara. 2022. “The Ethics of Electoral Experimentation: Design-Based Recommendations.”  <br>
+  Slough, Tara. 2023. “The Ethics of Electoral Experimentation: Design-Based Recommendations.”  <br>
   <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.com/assets/pdf/eee.pdf">[paper]</a></small></div>  
  &nbsp;&nbsp;
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.com/assets/pdf/eee_appendix.pdf">[appendix]</a></small></div>
 </div>
   </li>
-  
-  <li>
-  Slough, Tara and Scott A. Tyson. 2022. "Sign-Congruence, External Validity, and Replication" <br>
-  <div class="btn-group">
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.com/assets/pdf/sc_ev_r.pdf">[paper]</a></small></div>  
- 
- &nbsp;&nbsp;
-  <div class="button" width="60" height="100"><small><a href = "http://taraslough.com/assets/pdf/sc_ev_r_appendix.pdf">[appendix]</a></small></div>  
-</div> 
-  </li>
-
-        <li>
-  Garbiras-Díaz, Natalia and Tara Slough. 2022. “The Limits of Decentralized Data Collection: Experimental Evidence from Colombia.” <br>
-  <div class="btn-group">
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.com/assets/pdf/decentralized_data.pdf">[paper]</a></small></div>  
- &nbsp;&nbsp;
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.com/assets/pdf/decentralized_data_appendix.pdf">[appendix]</a></small></div>
-</div>
-
-  </li>
-  <li>
-Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2022. “Preaching to the Choir: A Problem of Participatory Interventions” <br>
+    <li>
+Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2023. “Preaching to the Choir: A Problem of Participatory Interventions.” Revise and resubmit, <i>Journal of Politics.</i> <br>
   <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.com/assets/pdf/preaching.pdf">[paper]</a></small></div>  
  &nbsp;&nbsp;
@@ -193,10 +173,48 @@ Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2022. “Preaching to the Cho
 
 
 </li>
+  <li>
+  Slough, Tara and Scott A. Tyson. 2023. "Sign-Congruence, External Validity, and Replication" <br>
+  <div class="btn-group">
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.com/assets/pdf/sc_ev_r.pdf">[paper]</a></small></div>  
+ 
+ &nbsp;&nbsp;
+  <div class="button" width="60" height="100"><small><a href = "http://taraslough.com/assets/pdf/sc_ev_r_appendix.pdf">[appendix]</a></small></div>  
+</div> 
+  </li>
+    <li>
+  Fu, Jiawei and Tara Slough. 2023. "Heterogeneous Treatment Effects and Causal Mechanisms" <br>
+  <div class="btn-group">
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.com/assets/pdf/hte.pdf">[paper]</a></small></div>  
+ 
+ &nbsp;&nbsp;
+  <div class="button" width="60" height="100"><small><a href = "http://taraslough.com/assets/pdf/hte_appendix.pdf">[appendix]</a></small></div>  
+</div> 
+  </li>
+
+        <li>
+  Garbiras-Díaz, Natalia and Tara Slough. 2023. “The Limits of Decentralized Data Collection: Experimental Evidence from Colombia.” <br>
+  <div class="btn-group">
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.com/assets/pdf/decentralized_data.pdf">[paper]</a></small></div>  
+ &nbsp;&nbsp;
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.com/assets/pdf/decentralized_data_appendix.pdf">[appendix]</a></small></div>
+</div>
+
+  </li>
+
+  <li>
+Golden, Miriam, Tara Slough, Alexandra Scacco, and 29 others. 2023. “Gathering, evaluating, and aggregating social scientific models of COVID-19 mortality.” <br>
+  <div class="btn-group">
+ <div class="button" width="60" height="100"><small><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4570855">[paper]</a></small></div>  
+
+</div>
 
 
-          <li>
- Arias, Eric, Rebecca Hanson, Dorothy Kronick, and Tara Slough. “Does Community Policing Work? Evidence from Medellín.” Chapter for <i>Crime, Insecurity, and Community Policing</i>, Under contract with Cambridge University Press. <br>
+
+</li>
+
+<li>
+ Arias, Eric, Rebecca Hanson, Dorothy Kronick, and Tara Slough. 2022. “Does Community Policing Work? Evidence from Medellín.” Chapter for <i>Crime, Insecurity, and Community Policing</i>. Forthcoming, Cambridge University Press. <br>
 
   </li>
 

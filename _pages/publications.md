@@ -131,7 +131,6 @@ nav_order: 2
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/bq_acc.pdf">[paper]</a></small></div>  
  &nbsp;&nbsp;
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/bq_acc_appendix.pdf">[appendix]</a></small></div>
-</div>
 &nbsp;&nbsp;
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/bq_acc_appendix2.pdf">[dataverse appendix]</a></small></div>
 </div>

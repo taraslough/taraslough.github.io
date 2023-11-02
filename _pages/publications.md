@@ -132,6 +132,9 @@ nav_order: 2
  &nbsp;&nbsp;
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/bq_acc_appendix.pdf">[appendix]</a></small></div>
 </div>
+&nbsp;&nbsp;
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/bq_acc_appendix2.pdf">[dataverse appendix]</a></small></div>
+</div>
   </li>
 
   <li>
@@ -155,7 +158,7 @@ nav_order: 2
 </div>
   </li>
        <li>
-  Slough, Tara. 2023. “The Ethics of Electoral Experimentation: Design-Based Recommendations.”  <br>
+  Slough, Tara. 2023. “The Ethics of Electoral Experimentation: Design-Based Recommendations.” Revise and resubmit, <i>Political Analysis.</i> <br>
   <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/eee.pdf">[paper]</a></small></div>  
  &nbsp;&nbsp;

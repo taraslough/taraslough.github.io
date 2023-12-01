@@ -123,7 +123,7 @@ nav_order: 2
 <h2 class="year">working papers</h2>
 <ol>
    <li>
-  Slough, Tara. 2023. “Bureaucratic Quality and Electoral Accountability.” Conditionally accepted, <i>American Political Science Review</i><br>
+  Slough, Tara. 2023. “Bureaucratic Quality and Electoral Accountability.” Conditionally accepted, <i>American Political Science Review.</i><br>
    <small>&#8594; Winner, 2022 Fiona McGillivray Award for Best Paper in Political Economy Presented at APSA 2021</small><br>
 
 
@@ -133,6 +133,15 @@ nav_order: 2
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/bq_acc_appendix.pdf">[appendix]</a></small></div>
 &nbsp;&nbsp;
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/bq_acc_appendix2.pdf">[dataverse appendix]</a></small></div>
+</div>
+  </li>
+
+<li>
+  Slough, Tara. 2023. “The Ethics of Electoral Experimentation: Design-Based Recommendations.” Conditionally accepted, <i>Political Analysis.</i> <br>
+  <div class="btn-group">
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/eee.pdf">[paper]</a></small></div>  
+ &nbsp;&nbsp;
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/eee_appendix.pdf">[appendix]</a></small></div>
 </div>
   </li>
 
@@ -156,14 +165,7 @@ nav_order: 2
 
 </div>
   </li>
-       <li>
-  Slough, Tara. 2023. “The Ethics of Electoral Experimentation: Design-Based Recommendations.” Revise and resubmit, <i>Political Analysis.</i> <br>
-  <div class="btn-group">
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/eee.pdf">[paper]</a></small></div>  
- &nbsp;&nbsp;
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/eee_appendix.pdf">[appendix]</a></small></div>
-</div>
-  </li>
+ 
     <li>
 Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2023. “Preaching to the Choir: A Problem of Participatory Interventions.” Revise and resubmit, <i>Journal of Politics.</i> <br>
   <div class="btn-group">

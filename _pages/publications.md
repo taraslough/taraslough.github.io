@@ -12,6 +12,18 @@ nav_order: 2
 <h2 class="year">peer-reviewed articles</h2>
 
 <ol>
+     <li>
+  Slough, Tara. 2023. “Bureaucratic Quality and Electoral Accountability.” Forthcoming, <i>American Political Science Review.</i><br>
+   <small>&#8594; Winner, 2022 Fiona McGillivray Award for Best Paper in Political Economy Presented at APSA 2021</small><br>
+  <div class="btn-group">
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/bq_acc.pdf">[paper]</a></small></div>  
+ &nbsp;&nbsp;
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/bq_acc_appendix.pdf">[appendix]</a></small></div>
+&nbsp;&nbsp;
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/bq_acc_appendix2.pdf">[dataverse appendix]</a></small></div>
+</div>
+  </li>
+
  <li>
   Slough, Tara and Scott A. Tyson. 2023. “External Validity and Meta-Analysis.” <i>American Journal of Political Science.</i> 67(2): 440-455.<br>
   <div class="btn-group">
@@ -112,32 +124,21 @@ nav_order: 2
 </div></li>
 </ol>
 
-<h2 class="year">book in preparation </h2>
+<h2 class="year">element </h2>
 <ol>
   <li>
-  Slough, Tara and Scott A. Tyson. 2023. <em>External Validity and Evidence Accumulation. </em> Under contract, Cambridge University Press, Elements in Quantitative and Computational Methods for the Social Sciences series.
+  Slough, Tara and Scott A. Tyson. 2023. <em>External Validity and Evidence Accumulation. </em> Under revision, Cambridge University Press, Elements in Quantitative and Computational Methods for the Social Sciences series.
   </li>
 </ol>
 
 
 <h2 class="year">working papers</h2>
 <ol>
-   <li>
-  Slough, Tara. 2023. “Bureaucratic Quality and Electoral Accountability.” Conditionally accepted, <i>American Political Science Review.</i><br>
-   <small>&#8594; Winner, 2022 Fiona McGillivray Award for Best Paper in Political Economy Presented at APSA 2021</small><br>
 
-
-  <div class="btn-group">
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/bq_acc.pdf">[paper]</a></small></div>  
- &nbsp;&nbsp;
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/bq_acc_appendix.pdf">[appendix]</a></small></div>
-&nbsp;&nbsp;
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/bq_acc_appendix2.pdf">[dataverse appendix]</a></small></div>
-</div>
-  </li>
 
 <li>
-  Slough, Tara. 2023. “The Ethics of Electoral Experimentation: Design-Based Recommendations.” Conditionally accepted, <i>Political Analysis.</i> <br>
+  Slough, Tara. 2023. “Making a Difference: The Consequences of Electoral Interventions.” Conditionally accepted, <i>Political Analysis.</i> <br>
+   <small>Previously titled: “The Ethics of Electoral Experimentation: Design-Based Recommendations.” </small><br>
   <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/eee.pdf">[paper]</a></small></div>  
  &nbsp;&nbsp;
@@ -212,8 +213,6 @@ Golden, Miriam, Tara Slough, Alexandra Scacco, and 29 others. 2023. “Gathering
  <div class="button" width="60" height="100"><small><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4570855">[paper]</a></small></div>  
 
 </div>
-
-
 
 </li>
 

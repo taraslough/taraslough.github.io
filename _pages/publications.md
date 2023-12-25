@@ -25,7 +25,7 @@ nav_order: 2
   </li>
 
   <li>
-  Slough, Tara. 2023. “Making a Difference: The Consequences of Electoral Interventions.” Forthcoming, <i>Political Analysis.</i> <br>
+  Slough, Tara. 2023. “Making a Difference: The Consequences of Electoral Experiments.” Forthcoming, <i>Political Analysis.</i> <br>
    <small>Previously titled: “The Ethics of Electoral Experimentation: Design-Based Recommendations.” </small><br>
   <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/eee.pdf">[paper]</a></small></div>  

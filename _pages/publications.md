@@ -24,6 +24,18 @@ nav_order: 2
 </div>
   </li>
 
+  <li>
+  Slough, Tara. 2023. “Making a Difference: The Consequences of Electoral Interventions.” Forthcoming, <i>Political Analysis.</i> <br>
+   <small>Previously titled: “The Ethics of Electoral Experimentation: Design-Based Recommendations.” </small><br>
+  <div class="btn-group">
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/eee.pdf">[paper]</a></small></div>  
+ &nbsp;&nbsp;
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/eee_appendix.pdf">[appendix]</a></small></div>
+  &nbsp;&nbsp;
+ <div class="button" width="60" height="100"><small><a href = "https://doi.org/10.24433/CO.7729631.v1">[replication]</a></small></div>
+</div>
+  </li>
+
  <li>
   Slough, Tara and Scott A. Tyson. 2023. “External Validity and Meta-Analysis.” <i>American Journal of Political Science.</i> 67(2): 440-455.<br>
   <div class="btn-group">
@@ -132,19 +144,12 @@ nav_order: 2
 </ol>
 
 
+
 <h2 class="year">working papers</h2>
 <ol>
 
 
-<li>
-  Slough, Tara. 2023. “Making a Difference: The Consequences of Electoral Interventions.” Conditionally accepted, <i>Political Analysis.</i> <br>
-   <small>Previously titled: “The Ethics of Electoral Experimentation: Design-Based Recommendations.” </small><br>
-  <div class="btn-group">
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/eee.pdf">[paper]</a></small></div>  
- &nbsp;&nbsp;
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/eee_appendix.pdf">[appendix]</a></small></div>
-</div>
-  </li>
+
 
   <li>
   Slough, Tara. 2022. “Squeaky Wheels and Inequality in Bureaucratic Service Provision.” <br>
@@ -179,7 +184,7 @@ Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2023. “Preaching to the Cho
 
 </li>
   <li>
-  Slough, Tara and Scott A. Tyson. 2023. "Sign-Congruence, External Validity, and Replication" <br>
+  Slough, Tara and Scott A. Tyson. 2023. "Sign-Congruence, External Validity, and Replication." Revise and resubmit, <i>Political Analysis.</i> <br>
   <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/sc_ev_r.pdf">[paper]</a></small></div>  
  

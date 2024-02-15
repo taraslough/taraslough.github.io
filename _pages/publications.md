@@ -26,11 +26,13 @@ nav_order: 2
   Slough, Tara. 2024. “Bureaucratic Quality and Electoral Accountability.” Forthcoming, <i>American Political Science Review.</i><br>
    <small>&#8594; Winner, 2022 Fiona McGillivray Award for Best Paper in Political Economy Presented at APSA 2021</small><br>
   <div class="btn-group">
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/bq_acc.pdf">[paper]</a></small></div>  
+ <div class="button" width="60" height="100"><small><a href = "https://doi.org/10.1017/S0003055423001405">[open access]</a></small></div>  
  &nbsp;&nbsp;
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/bq_acc_appendix.pdf">[appendix]</a></small></div>
 &nbsp;&nbsp;
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/bq_acc_appendix2.pdf">[dataverse appendix]</a></small></div>
+ &nbsp;&nbsp;
+ <div class="button" width="60" height="100"><small><a href = "https://doi.org/10.7910/DVN/KKEVEA">[replication]</a></small></div>
 </div>
   </li>
 
@@ -38,7 +40,7 @@ nav_order: 2
   Slough, Tara. 2024. “Making a Difference: The Consequences of Electoral Experiments.” Forthcoming, <i>Political Analysis.</i> <br>
    <small>Previously titled: “The Ethics of Electoral Experimentation: Design-Based Recommendations.” </small><br>
   <div class="btn-group">
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/eee.pdf">[paper]</a></small></div>  
+ <div class="button" width="60" height="100"><small><a href = "https://doi.org/10.1017/pan.2023.44">[open access]</a></small></div>  
  &nbsp;&nbsp;
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/eee_appendix.pdf">[appendix]</a></small></div>
   &nbsp;&nbsp;
@@ -154,7 +156,7 @@ nav_order: 2
 
 
   <li>
-  Slough, Tara. 2022. “Squeaky Wheels and Inequality in Bureaucratic Service Provision.” <br>
+  Slough, Tara. 2024. “Squeaky Wheels and Inequality in Bureaucratic Service Provision.” <br>
   <small>Previously titled: "Bureaucrats Driving Inequality in Access: Experimental Evidence from Colombia.</small><br>
   <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/colombia_audit.pdf">[paper]</a></small></div>  
@@ -165,7 +167,7 @@ nav_order: 2
   </li>
 
   <li>
-  Slough, Tara. 2022. “Oversight, Capacity, and Inequality.” <br>
+  Slough, Tara. 2024. “Oversight, Capacity, and Inequality.” <br>
   <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/oci.pdf">[paper]</a></small></div>  
   &nbsp;&nbsp;
@@ -174,19 +176,21 @@ nav_order: 2
 </div>
   </li>
  
-    <li>
-Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2023. “Preaching to the Choir: A Problem of Participatory Interventions.” Conditionally accepted, <i>Journal of Politics.</i> <br>
+  <li>
+Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2024. “Preaching to the Choir: A Problem of Participatory Interventions.” Conditionally accepted, <i>Journal of Politics.</i> <br>
   <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/preaching.pdf">[paper]</a></small></div>  
  &nbsp;&nbsp;
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/preaching_appendix.pdf">[appendix]</a></small></div>
+&nbsp;&nbsp;
+<div class="button" width="60" height="100"><small><a href = "https://doi.org/10.24433/CO.0479587.v1">[replication]</a></small></div>
 </div>
 
 
 
 </li>
   <li>
-  Slough, Tara and Scott A. Tyson. 2023. "Sign-Congruence, External Validity, and Replication." Revise and resubmit, <i>Political Analysis.</i> <br>
+  Slough, Tara and Scott A. Tyson. 2024. "Sign-Congruence, External Validity, and Replication." Revise and resubmit, <i>Political Analysis.</i> <br>
   <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/sc_ev_r.pdf">[paper]</a></small></div>  
  
@@ -195,7 +199,7 @@ Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2023. “Preaching to the Cho
 </div> 
   </li>
     <li>
-  Fu, Jiawei and Tara Slough. 2023. "Heterogeneous Treatment Effects and Causal Mechanisms" <br>
+  Fu, Jiawei and Tara Slough. 2024. "Heterogeneous Treatment Effects and Causal Mechanisms" <br>
   <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/hte.pdf">[paper]</a></small></div>  
  
@@ -205,7 +209,7 @@ Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2023. “Preaching to the Cho
   </li>
 
         <li>
-  Garbiras-Díaz, Natalia and Tara Slough. 2023. “The Limits of Decentralized Data Collection: Experimental Evidence from Colombia.” <br>
+  Garbiras-Díaz, Natalia and Tara Slough. 2024. “The Limits of Decentralized Data Collection: Experimental Evidence from Colombia.” <br>
   <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/decentralized_data.pdf">[paper]</a></small></div>  
  &nbsp;&nbsp;
@@ -224,7 +228,7 @@ Golden, Miriam, Tara Slough, Alexandra Scacco, and 29 others. 2023. “Gathering
 </li>
 
 <li>
- Arias, Eric, Rebecca Hanson, Dorothy Kronick, and Tara Slough. 2022. “Does Community Policing Work? Evidence from Medellín.” Chapter for <i>Crime, Insecurity, and Community Policing</i>. Forthcoming, Cambridge University Press. <br>
+ Arias, Eric, Rebecca Hanson, Dorothy Kronick, and Tara Slough. 2024. “Does Community Policing Work? Evidence from Medellín.” Chapter for <i>Crime, Insecurity, and Community Policing</i>. Forthcoming, Cambridge University Press. <br>
 
   </li>
 

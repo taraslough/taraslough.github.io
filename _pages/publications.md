@@ -190,7 +190,7 @@ Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2024. “Preaching to the Cho
 
 </li>
   <li>
-  Slough, Tara and Scott A. Tyson. 2024. "Sign-Congruence, External Validity, and Replication." Revise and resubmit, <i>Political Analysis.</i> <br>
+  Slough, Tara and Scott A. Tyson. 2024. "Sign-Congruence, External Validity, and Replication." Conditionally accepted, <i>Political Analysis.</i> <br>
   <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/sc_ev_r.pdf">[paper]</a></small></div>  
  

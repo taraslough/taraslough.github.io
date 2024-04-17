@@ -22,6 +22,30 @@ nav_order: 2
 <h2 class="year">peer-reviewed articles</h2>
 
 <ol>
+    <li>
+Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2024. “Preaching to the Choir: A Problem of Participatory Interventions.” Conditionally accepted, <i>Journal of Politics.</i> <br>
+  <div class="btn-group">
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/preaching.pdf">[paper]</a></small></div>  
+ &nbsp;&nbsp;
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/preaching_appendix.pdf">[appendix]</a></small></div>
+&nbsp;&nbsp;
+<div class="button" width="60" height="100"><small><a href = "https://doi.org/10.24433/CO.0479587.v1">[replication]</a></small></div>
+</div>
+
+
+
+</li>
+  <li>
+  Slough, Tara and Scott A. Tyson. 2024. "Sign-Congruence, External Validity, and Replication." Conditionally accepted, <i>Political Analysis.</i> <br>
+  <div class="btn-group">
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/sc_ev_r.pdf">[paper]</a></small></div>  
+ 
+ &nbsp;&nbsp;
+  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/sc_ev_r_appendix.pdf">[appendix]</a></small></div>  
+  &nbsp;&nbsp;
+  <div class="button" width="60" height="100"><small><a href = "https://codeocean.com/capsule/0867235/tree">[replication]</a></small></div>  
+</div> 
+  </li>
      <li>
   Slough, Tara. 2024. “Bureaucratic Quality and Electoral Accountability.” Forthcoming, <i>American Political Science Review.</i><br>
    <small>&#8594; Winner, 2022 Fiona McGillivray Award for Best Paper in Political Economy Presented at APSA 2021</small><br>
@@ -176,28 +200,17 @@ nav_order: 2
 </div>
   </li>
  
-  <li>
-Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2024. “Preaching to the Choir: A Problem of Participatory Interventions.” Conditionally accepted, <i>Journal of Politics.</i> <br>
+
+
+    <li>
+Golden, Miriam, Tara Slough, Alexandra Scacco, and 29 others. 2023. “Gathering, evaluating, and aggregating social scientific models of COVID-19 mortality.” R&R, <i>Political Analysis.</i><br>
   <div class="btn-group">
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/preaching.pdf">[paper]</a></small></div>  
- &nbsp;&nbsp;
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/preaching_appendix.pdf">[appendix]</a></small></div>
-&nbsp;&nbsp;
-<div class="button" width="60" height="100"><small><a href = "https://doi.org/10.24433/CO.0479587.v1">[replication]</a></small></div>
+ <div class="button" width="60" height="100"><small><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4570855">[paper]</a></small></div>  
+
 </div>
 
-
-
 </li>
-  <li>
-  Slough, Tara and Scott A. Tyson. 2024. "Sign-Congruence, External Validity, and Replication." Conditionally accepted, <i>Political Analysis.</i> <br>
-  <div class="btn-group">
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/sc_ev_r.pdf">[paper]</a></small></div>  
- 
- &nbsp;&nbsp;
-  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/sc_ev_r_appendix.pdf">[appendix]</a></small></div>  
-</div> 
-  </li>
+
     <li>
   Fu, Jiawei and Tara Slough. 2024. "Heterogeneous Treatment Effects and Causal Mechanisms" <br>
   <div class="btn-group">
@@ -218,14 +231,7 @@ Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2024. “Preaching to the Cho
 
   </li>
 
-  <li>
-Golden, Miriam, Tara Slough, Alexandra Scacco, and 29 others. 2023. “Gathering, evaluating, and aggregating social scientific models of COVID-19 mortality.” <br>
-  <div class="btn-group">
- <div class="button" width="60" height="100"><small><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4570855">[paper]</a></small></div>  
 
-</div>
-
-</li>
 
 <li>
  Arias, Eric, Rebecca Hanson, Dorothy Kronick, and Tara Slough. 2024. “Does Community Policing Work? Evidence from Medellín.” Chapter for <i>Crime, Insecurity, and Community Policing</i>. Forthcoming, Cambridge University Press. <br>

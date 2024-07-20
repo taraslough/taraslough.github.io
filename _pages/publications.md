@@ -14,6 +14,9 @@ nav_order: 2
 <ol>
   <li>
   Slough, Tara and Scott A. Tyson. 2024. <em>External Validity and Evidence Accumulation. </em> Forthcoming, Cambridge University Press.
+
+ <div class="button" width="60" height="100"><small><a href = "  https://www.cambridge.org/core/elements/external-validity-and-evidence-accumulation/872B3E22F66D6227E6547B3536023A51?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark
+">[publisher]</a></small></div>  
   </li>
 </ol>
 
@@ -23,7 +26,7 @@ nav_order: 2
 
 <ol>
     <li>
-Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2024. “Preaching to the Choir: A Problem of Participatory Interventions.” Conditionally accepted, <i>Journal of Politics.</i> <br>
+Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2024. “Preaching to the Choir: A Problem of Participatory Interventions.” Forthcoming, <i>Journal of Politics.</i> <br>
   <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/preaching.pdf">[paper]</a></small></div>  
  &nbsp;&nbsp;
@@ -36,7 +39,7 @@ Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2024. “Preaching to the Cho
 
 </li>
   <li>
-  Slough, Tara and Scott A. Tyson. 2024. "Sign-Congruence, External Validity, and Replication." Conditionally accepted, <i>Political Analysis.</i> <br>
+  Slough, Tara and Scott A. Tyson. 2024. "Sign-Congruence, External Validity, and Replication." Forthcoming, <i>Political Analysis.</i> <br>
   <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/sc_ev_r.pdf">[paper]</a></small></div>  
  
@@ -83,6 +86,7 @@ Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2024. “Preaching to the Cho
 </div>
   </li>
 <li>Slough, Tara. 2023. ``Phantom Counterfactuals.’’ <i>American Journal of Political Science.</i> 67(1): 137-153.<br>
+   <small>&#8594; Winner, 2024 Best Article by a Non-Tenured Scholar, APSA Formal Theory Section.</small><br>
    <small>Previously titled: "On Theory and Identification: When and Why We Need Theory for Causal Identification."</small><br>
    
 <div class="btn-group">
@@ -173,6 +177,14 @@ Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2024. “Preaching to the Cho
 </ol>
 
 
+<h2 class="year">chapters in edited volumes</h2>
+<ol>
+<li>
+ Arias, Eric, Rebecca Hanson, Dorothy Kronick, and Tara Slough. 2024. “Does Community Policing Work? Evidence from Medellín.” Chapter for <i>Crime, Insecurity, and Community Policing</i>. Forthcoming, Cambridge University Press. <br>
+
+  </li>
+</ol>
+
 <h2 class="year">working papers</h2>
 <ol>
 
@@ -213,12 +225,11 @@ Golden, Miriam, Tara Slough, Alexandra Scacco, and 29 others. 2023. “Gathering
 
     <li>
   Fu, Jiawei and Tara Slough. 2024. "Heterogeneous Treatment Effects and Causal Mechanisms" <br>
-  <div class="btn-group">
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/hte.pdf">[paper]</a></small></div>  
+   <small>&#8594; Winner, 2024 Society for Political Methodology Gosnell Prize for the best political methodology paper presented in 2023</small><br>
+
+ <div class="button" width="60" height="100"><small><a href = "https://arxiv.org/abs/2404.01566">[paper + appendix]</a></small></div>  
  
- &nbsp;&nbsp;
-  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/hte_appendix.pdf">[appendix]</a></small></div>  
-</div> 
+
   </li>
 
         <li>
@@ -233,10 +244,7 @@ Golden, Miriam, Tara Slough, Alexandra Scacco, and 29 others. 2023. “Gathering
 
 
 
-<li>
- Arias, Eric, Rebecca Hanson, Dorothy Kronick, and Tara Slough. 2024. “Does Community Policing Work? Evidence from Medellín.” Chapter for <i>Crime, Insecurity, and Community Policing</i>. Forthcoming, Cambridge University Press. <br>
 
-  </li>
 
 </ol>
 

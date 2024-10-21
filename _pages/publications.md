@@ -214,14 +214,7 @@ Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2024. “Preaching to the Cho
  
 
 
-    <li>
-Golden, Miriam, Tara Slough, Alexandra Scacco, and 29 others. 2023. “Gathering, evaluating, and aggregating social scientific models of COVID-19 mortality.” R&R, <i>Political Analysis.</i><br>
-  <div class="btn-group">
- <div class="button" width="60" height="100"><small><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4570855">[paper]</a></small></div>  
 
-</div>
-
-</li>
 
     <li>
   Fu, Jiawei and Tara Slough. 2024. "Heterogeneous Treatment Effects and Causal Mechanisms" <br>
@@ -232,7 +225,7 @@ Golden, Miriam, Tara Slough, Alexandra Scacco, and 29 others. 2023. “Gathering
 
   </li>
 
-        <li>
+ <li>
   Garbiras-Díaz, Natalia and Tara Slough. 2024. “The Limits of Decentralized Data Collection: Experimental Evidence from Colombia.” <br>
   <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/decentralized_data.pdf">[paper]</a></small></div>  
@@ -242,7 +235,25 @@ Golden, Miriam, Tara Slough, Alexandra Scacco, and 29 others. 2023. “Gathering
 
   </li>
 
+   <li>
+ Tara Slough and Carolina Torreblanca. 2024. “Class and the Development of Trust in Police in Latin America.” <br>
+  <div class="btn-group">
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/police_trust.pdf">[paper]</a></small></div>  
+ &nbsp;&nbsp;
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/police_trust_app.pdf">[appendix]</a></small></div>
+</div>
 
+  </li>
+
+
+<li>
+Golden, Miriam, Tara Slough, Alexandra Scacco, and 29 others. 2023. “Gathering, evaluating, and aggregating social scientific models of COVID-19 mortality.”</i><br>
+  <div class="btn-group">
+ <div class="button" width="60" height="100"><small><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4570855">[paper]</a></small></div>  
+
+</div>
+
+</li>
 
 
 

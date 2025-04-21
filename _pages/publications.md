@@ -13,7 +13,7 @@ nav_order: 2
 <h2 class="year">element </h2>
 <ol>
   <li>
-  Slough, Tara and Scott A. Tyson. 2024. <em>External Validity and Evidence Accumulation. </em> Forthcoming, Cambridge University Press.
+  Slough, Tara and Scott A. Tyson. 2024. <em>External Validity and Evidence Accumulation. </em> Cambridge University Press.
 
  <div class="button" width="60" height="100"><small><a href = "  https://www.cambridge.org/core/elements/external-validity-and-evidence-accumulation/872B3E22F66D6227E6547B3536023A51?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark
 ">[publisher]</a></small></div>  
@@ -25,8 +25,21 @@ nav_order: 2
 <h2 class="year">peer-reviewed articles</h2>
 
 <ol>
+
+  <li>
+  Slough, Tara and Scott A. Tyson. 2025. "Sign-Congruence, External Validity, and Replication." Forthcoming, <i>Political Analysis.</i> <br>
+  <div class="btn-group">
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/sc_ev_r.pdf">[paper]</a></small></div>  
+ 
+ &nbsp;&nbsp;
+  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/sc_ev_r_appendix.pdf">[appendix]</a></small></div>  
+  &nbsp;&nbsp;
+  <div class="button" width="60" height="100"><small><a href = "https://codeocean.com/capsule/0867235/tree">[replication]</a></small></div>  
+</div> 
+  </li>
+  
     <li>
-Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2024. “Preaching to the Choir: A Problem of Participatory Interventions.” Forthcoming, <i>Journal of Politics.</i> <br>
+Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2025. “Preaching to the Choir: A Problem of Participatory Interventions.” <i>Journal of Politics </i>, 87(2): 739-756. <br>
   <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/preaching.pdf">[paper]</a></small></div>  
  &nbsp;&nbsp;
@@ -38,19 +51,9 @@ Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2024. “Preaching to the Cho
 
 
 </li>
-  <li>
-  Slough, Tara and Scott A. Tyson. 2024. "Sign-Congruence, External Validity, and Replication." Forthcoming, <i>Political Analysis.</i> <br>
-  <div class="btn-group">
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/sc_ev_r.pdf">[paper]</a></small></div>  
- 
- &nbsp;&nbsp;
-  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/sc_ev_r_appendix.pdf">[appendix]</a></small></div>  
-  &nbsp;&nbsp;
-  <div class="button" width="60" height="100"><small><a href = "https://codeocean.com/capsule/0867235/tree">[replication]</a></small></div>  
-</div> 
-  </li>
+
      <li>
-  Slough, Tara. 2024. “Bureaucratic Quality and Electoral Accountability.” Forthcoming, <i>American Political Science Review.</i><br>
+  Slough, Tara. 2024. “Bureaucratic Quality and Electoral Accountability.”  <i>American Political Science Review,</i> 118(4): 1931-1950.<br>
    <small>&#8594; Winner, 2022 Fiona McGillivray Award for Best Paper in Political Economy Presented at APSA 2021</small><br>
   <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "https://doi.org/10.1017/S0003055423001405">[open access]</a></small></div>  
@@ -64,7 +67,7 @@ Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2024. “Preaching to the Cho
   </li>
 
   <li>
-  Slough, Tara. 2024. “Making a Difference: The Consequences of Electoral Experiments.” Forthcoming, <i>Political Analysis.</i> <br>
+  Slough, Tara. 2024. “Making a Difference: The Consequences of Electoral Experiments.” <i>Political Analysis,</i> 32: 384-400. <br>
    <small>Previously titled: “The Ethics of Electoral Experimentation: Design-Based Recommendations.” </small><br>
   <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "https://doi.org/10.1017/pan.2023.44">[open access]</a></small></div>  
@@ -203,7 +206,7 @@ Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2024. “Preaching to the Cho
   </li>
 
   <li>
-  Slough, Tara. 2024. “Oversight, Capacity, and Inequality.” <br>
+  Slough, Tara. 2024. “Oversight, Capacity, and Inequality”, R&R <i>Political Science Research and Methods. </i> <br>
   <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/oci.pdf">[paper]</a></small></div>  
   &nbsp;&nbsp;
@@ -216,17 +219,35 @@ Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2024. “Preaching to the Cho
 
 
 
+ 
+  
     <li>
-  Fu, Jiawei and Tara Slough. 2024. "Heterogeneous Treatment Effects and Causal Mechanisms" <br>
+  Slough, Tara. 2025. "Manufacturing Missingness: A Hidden Cost of Survey Experiments."
+
+  </li>
+  
+      <li>
+  Slough, Tara. 2025. "The Organizational Dynamics of Administrative Data Production"
+
+  </li>
+  
+      <li>
+  Slough, Tara. 2025. "Bureaucratic Incentives and Data Production: Evidence from Social Registries."
+
+  </li>
+  
+     <li>
+  Fu, Jiawei and Tara Slough. 2025. "Heterogeneous Treatment Effects and Causal Mechanisms," R&R <i> American Political Science Review. </i> <br>
    <small>&#8594; Winner, 2024 Society for Political Methodology Gosnell Prize for the best political methodology paper presented in 2023</small><br>
 
  <div class="button" width="60" height="100"><small><a href = "https://arxiv.org/abs/2404.01566">[paper + appendix]</a></small></div>  
  
 
   </li>
+  
 
  <li>
-  Garbiras-Díaz, Natalia and Tara Slough. 2024. “The Limits of Decentralized Data Collection: Experimental Evidence from Colombia.” <br>
+  Garbiras-Díaz, Natalia and Tara Slough. 2025. “The Limits of Decentralized Data Collection: Experimental Evidence from Colombia.” <br>
   <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/decentralized_data.pdf">[paper]</a></small></div>  
  &nbsp;&nbsp;
@@ -236,7 +257,18 @@ Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2024. “Preaching to the Cho
   </li>
 
    <li>
- Tara Slough and Carolina Torreblanca. 2024. “Class and the Development of Trust in Police in Latin America.” <br>
+ Tara Slough and Carolina Torreblanca. 2025. “Class and the Development of Trust in Police in Latin America.” <br>
+  <div class="btn-group">
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/police_trust.pdf">[paper]</a></small></div>  
+ &nbsp;&nbsp;
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/police_trust_app.pdf">[appendix]</a></small></div>
+</div>
+
+  </li>
+  
+  
+     <li>
+ Tara Slough and Carolina Torreblanca. 2025. “Class and the Development of Trust in Police in Latin America.” <br>
   <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/police_trust.pdf">[paper]</a></small></div>  
  &nbsp;&nbsp;
@@ -247,12 +279,7 @@ Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2024. “Preaching to the Cho
 
 
 <li>
-Golden, Miriam, Tara Slough, Alexandra Scacco, and 29 others. 2023. “Gathering, evaluating, and aggregating social scientific models of COVID-19 mortality.”</i><br>
-  <div class="btn-group">
- <div class="button" width="60" height="100"><small><a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4570855">[paper]</a></small></div>  
-
-</div>
-
+Idrobo, Nicolás, Dorothy Kronick, and Tara Slough. 2025. "Oversight, Policing, and Crime: Evidence from Colombia"
 </li>
 
 

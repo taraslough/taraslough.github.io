@@ -10,9 +10,11 @@ nav_order: 3
 
 <h3 class="year">at NYU</h3>
 <ol>
+<li> <b>Quant IV. </b> <small>Spring 2026 (scheduled).</small> <br>
+	<small>Graduate methods class.</small> </li>
 	<li> <b>Quant III. </b> <small>Fall 2021, Fall 2022, Spring 2024.</small> <br>
 	<small>Graduate methods class.</small> </li>
-	<li> <b>Introduction to Comparative Politics. </b><small>Spring 2022.</small><br>
+	<li> <b>Introduction to Comparative Politics. </b><small>Spring 2022, Fall 2025 (scheduled).</small><br>
 	<small>Undergraduate lecture</small> </li>
 	<li> <b>Inequality. </b><small>Spring 2021, Spring 2023.</small><br>
 	<small>Graduate seminar.</small> </li>
@@ -22,6 +24,11 @@ nav_order: 3
 
 <h3 class="year">at Research Design Courses and Workshops</h3>
 <ol>
+<li><b> Instructor, EITM Summer Institute, University of Michigan. </b> <small>August 2025 (scheduled).</small><br>
+<li><b> Instructor, EITM Summer Institute, Emory University. </b> <small>July 2024.</small><br>
+<li><b> Instructor, EITM Summer Institute, Princeton University. </b> <small>July 2023.</small><br>
+<li><b> Instructor, EITM Summer Institute, UC Berkeley (virtual). </b> <small>July 2022.</small><br>
+
 	<li><b> Instructor, EGAP Learning Days Virtual Refresher Course. </b> <small>August 2021.</small><br>
 		<small>Course for PIs from Latin America and sub-Saharan Africa.</small>
 	</li>

@@ -247,7 +247,8 @@ Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2025. “Preaching to the Cho
   
 
  <li>
-  Garbiras-Díaz, Natalia and Tara Slough. 2025. “The Limits of Decentralized Data Collection: Experimental Evidence from Colombia.” <br>
+  Garbiras-Díaz, Natalia and Tara Slough. 2025. “Government Oversight and Inter-Institutional Legibility:
+Evidence from Colombia,” R&R, <i>Journal of Politics</i>. <br>
   <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/decentralized_data.pdf">[paper]</a></small></div>  
  &nbsp;&nbsp;

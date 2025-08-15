@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="#">Assistant Professor of Politics, New York University</a>
+subtitle: <a href="#">Associate Professor of Politics, New York University</a>
 
 profile:
   align: right
@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am an Assistant Professor in the Wilf Family Department of Politics at New York University. 
+I am an Associate Professor in the Wilf Family Department of Politics at New York University. 
 
 I write on the political economy of institutions and development. My current research focuses on the comparative study of bureaucracies and on research design. My work appears or is forthcoming in journals including the <em>American Journal of Political Science</em>, the <em>American Political Science Review</em>, the <em>Journal of Politics</em>, <em>Science</em>, and the <em>Proceedings of the National Academy of Sciences</em>, among others. My research has been supported by grants from the NSF, USAID, EGAP/DFID, J-PAL, and Innovations for Poverty Action.
 

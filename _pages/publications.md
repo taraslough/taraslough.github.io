@@ -27,7 +27,7 @@ nav_order: 2
 <ol>
 
   <li>
-  Slough, Tara and Scott A. Tyson. 2025. "Sign-Congruence, External Validity, and Replication." Forthcoming, <i>Political Analysis.</i> <br>
+  Slough, Tara and Scott A. Tyson. 2025. "Sign-Congruence, External Validity, and Replication." <i>Political Analysis</i>, 33(3): 195-210. <br>
   <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/sc_ev_r.pdf">[paper]</a></small></div>  
  
@@ -113,7 +113,7 @@ Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2025. “Preaching to the Cho
 </div>
 
  </li>
- <li>Grossman, Guy and Tara Slough. 2022. “Government Responsiveness in Developing Countries.” Forthcoming, <i>Annual Review of Political Science. </i> 25: 131-153.<br>
+ <li>Grossman, Guy and Tara Slough. 2022. “Government Responsiveness in Developing Countries.” <i>Annual Review of Political Science. </i> 25: 131-153.<br>
     <div class="btn-group">
    <div class="button" width="60" height="100"><small><a href = "https://doi.org/10.1146/annurev-polisci-051120-112501">[journal]</a></small></div> 
 &nbsp;&nbsp;
@@ -121,7 +121,7 @@ Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2025. “Preaching to the Cho
 </div>
 </li>
 
-<li>Margalit, Yotam, Tara Slough, and Michael M. Ting. 2022. “After Defeat: Governing Party Response to Loss.” Forthcoming, <i>Political Science Research and Methods</i>. 10(4): 739-758.<br> 
+<li>Margalit, Yotam, Tara Slough, and Michael M. Ting. 2022. “After Defeat: Governing Party Response to Loss.” <i>Political Science Research and Methods</i>. 10(4): 739-758.<br> 
  <div class="btn-group">
   <div class="button" width="60" height="100"><small><a href = "https://doi.org/10.1017/psrm.2021.62">[journal]</a></small></div> 
 &nbsp;&nbsp;
@@ -183,15 +183,34 @@ Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2025. “Preaching to the Cho
 <h2 class="year">chapters in edited volumes</h2>
 <ol>
 <li>
- Arias, Eric, Rebecca Hanson, Dorothy Kronick, and Tara Slough. 2024. “Does Community Policing Work? Evidence from Medellín.” Chapter for <i>Crime, Insecurity, and Community Policing</i>. Forthcoming, Cambridge University Press. <br>
+ Arias, Eric, Rebecca Hanson, Dorothy Kronick, and Tara Slough. 2024. “Does Community Policing Work? Evidence from Medellín.” Chapter for <i>Crime, Insecurity, and Community Policing</i>. Cambridge University Press. <br>
 
   </li>
 </ol>
 
 <h2 class="year">working papers</h2>
 <ol>
+ 
+     <li>
+  Fu, Jiawei and Tara Slough. 2025. "Heterogeneous Treatment Effects and Causal Mechanisms," Conditionally accepted, <i> American Political Science Review. </i> <br>
+   <small>&#8594; Winner, 2024 Society for Political Methodology Gosnell Prize for the best political methodology paper presented in 2023</small><br>
 
+ <div class="button" width="60" height="100"><small><a href = "https://arxiv.org/abs/2404.01566">[paper + appendix]</a></small></div>  
+ 
 
+  </li>
+  
+
+ <li>
+  Garbiras-Díaz, Natalia and Tara Slough. 2025. “Government Oversight and Inter-Institutional Legibility:
+Evidence from Colombia,” Conditionally accepted, <i>Journal of Politics</i>. <br>
+  <div class="btn-group">
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/decentralized_data.pdf">[paper]</a></small></div>  
+ &nbsp;&nbsp;
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/decentralized_data_appendix.pdf">[appendix]</a></small></div>
+</div>
+
+  </li>
 
 
   <li>
@@ -222,69 +241,40 @@ Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2025. “Preaching to the Cho
  
   
     <li>
-  Slough, Tara. 2025. "Manufacturing Missingness: A Hidden Cost of Survey Experiments."
+  Slough, Tara. 2025. "Manufacturing Missingness: A Hidden Cost of Survey Experiments."</i> <br>
+  <div class="btn-group">
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/mm.pdf">[paper]</a></small></div>  
+  &nbsp;&nbsp;
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/mm_app.pdf">[appendix]</a></small></div>
+
+</div>
+  </li>
+  
+      <li>
+  Slough, Tara. 2025. "The Organizational Dynamics of Administrative Data Production."<br>
 
   </li>
   
       <li>
-  Slough, Tara. 2025. "The Organizational Dynamics of Administrative Data Production"
-
-  </li>
-  
-      <li>
-  Slough, Tara. 2025. "Bureaucratic Incentives and Data Production: Evidence from Social Registries."
-
-  </li>
-  
-     <li>
-  Fu, Jiawei and Tara Slough. 2025. "Heterogeneous Treatment Effects and Causal Mechanisms," R&R <i> American Political Science Review. </i> <br>
-   <small>&#8594; Winner, 2024 Society for Political Methodology Gosnell Prize for the best political methodology paper presented in 2023</small><br>
-
- <div class="button" width="60" height="100"><small><a href = "https://arxiv.org/abs/2404.01566">[paper + appendix]</a></small></div>  
- 
-
-  </li>
-  
-
- <li>
-  Garbiras-Díaz, Natalia and Tara Slough. 2025. “Government Oversight and Inter-Institutional Legibility:
-Evidence from Colombia,” R&R, <i>Journal of Politics</i>. <br>
-  <div class="btn-group">
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/decentralized_data.pdf">[paper]</a></small></div>  
- &nbsp;&nbsp;
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/decentralized_data_appendix.pdf">[appendix]</a></small></div>
-</div>
+  Slough, Tara. 2025. "Bureaucratic Incentives and Data Production: Evidence from Social Registries."<br>
 
   </li>
 
-   <li>
- Tara Slough and Carolina Torreblanca. 2025. “Class and the Development of Trust in Police in Latin America.” <br>
-  <div class="btn-group">
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/police_trust.pdf">[paper]</a></small></div>  
- &nbsp;&nbsp;
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/police_trust_app.pdf">[appendix]</a></small></div>
-</div>
 
-  </li>
-  
-  
-     <li>
- Tara Slough and Carolina Torreblanca. 2025. “Class and the Development of Trust in Police in Latin America.” <br>
-  <div class="btn-group">
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/police_trust.pdf">[paper]</a></small></div>  
- &nbsp;&nbsp;
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/police_trust_app.pdf">[appendix]</a></small></div>
-</div>
-
-  </li>
 
 
 <li>
-Idrobo, Nicolás, Dorothy Kronick, and Tara Slough. 2025. "Oversight, Policing, and Crime: Evidence from Colombia"
+Idrobo, Nicolás, Dorothy Kronick, and Tara Slough. 2025. "How Police and Crime Respond to Courts:
+Evidence from Colombia" <br>
+  <div class="btn-group">
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/mm.pdf">[paper + appendix]</a></small></div>  
+
+</div>
 </li>
 
-
-
+<li>
+Tara Slough and Scott A. Tyson. 2025. "Mechanisms: Attribution and Inference." 
+</li>
 </ol>
 
 

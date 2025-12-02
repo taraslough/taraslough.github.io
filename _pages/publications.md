@@ -245,7 +245,7 @@ Evidence from Colombia,” Conditionally accepted, <i>Journal of Politics</i>. <
   <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/mm.pdf">[paper]</a></small></div>  
   &nbsp;&nbsp;
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/mm_app.pdf">[appendix]</a></small></div>
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/mm_appendix.pdf">[appendix]</a></small></div>
 
 </div>
   </li>
@@ -276,7 +276,7 @@ in Latin America" <br>
 Idrobo, Nicolás, Dorothy Kronick, and Tara Slough. 2025. "How Police and Crime Respond to Courts:
 Evidence from Colombia" <br>
   <div class="btn-group">
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/mm.pdf">[paper + appendix]</a></small></div>  
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/courts.pdf">[paper + appendix]</a></small></div>  
 
 </div>
 </li>

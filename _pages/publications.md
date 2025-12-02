@@ -260,7 +260,16 @@ Evidence from Colombia,” Conditionally accepted, <i>Journal of Politics</i>. <
 
   </li>
 
+<li>
+Slough, Tara and Carolina Torreblanca. 2025. "Class and the Development of Trust in Police
+in Latin America" <br>
+ <div class="btn-group">
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/trust.pdf">[paper]</a></small></div>  
+  &nbsp;&nbsp;
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/trust_app.pdf">[appendix]</a></small></div>
 
+</div>
+</li>
 
 
 <li>
@@ -273,7 +282,7 @@ Evidence from Colombia" <br>
 </li>
 
 <li>
-Tara Slough and Scott A. Tyson. 2025. "Mechanisms: Attribution and Inference." 
+Slough, Tara and Scott A. Tyson. 2025. "Mechanisms: Attribution and Inference." 
 </li>
 </ol>
 

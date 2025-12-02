@@ -192,7 +192,7 @@ Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2025. “Preaching to the Cho
 <ol>
  
      <li>
-  Fu, Jiawei and Tara Slough. 2025. "Heterogeneous Treatment Effects and Causal Mechanisms," Conditionally accepted, <i> American Political Science Review. </i> <br>
+  Fu, Jiawei and Tara Slough. 2025. "Heterogeneous Treatment Effects and Causal Mechanisms." Conditionally accepted, <i> American Political Science Review. </i> <br>
    <small>&#8594; Winner, 2024 Society for Political Methodology Gosnell Prize for the best political methodology paper presented in 2023</small><br>
 
  <div class="button" width="60" height="100"><small><a href = "https://arxiv.org/abs/2404.01566">[paper + appendix]</a></small></div>  
@@ -241,7 +241,7 @@ Evidence from Colombia,” Conditionally accepted, <i>Journal of Politics</i>. <
  
   
     <li>
-  Slough, Tara. 2025. "Manufacturing Missingness: A Hidden Cost of Survey Experiments."</i> <br>
+  Slough, Tara. 2025. "Manufacturing Missingness: A Hidden Cost of Survey Experiments." <br>
   <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/mm.pdf">[paper]</a></small></div>  
   &nbsp;&nbsp;

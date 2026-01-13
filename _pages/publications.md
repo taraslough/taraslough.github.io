@@ -213,6 +213,17 @@ Evidence from Colombia,” Conditionally accepted, <i>Journal of Politics</i>. <
   </li>
 
 
+      <li>
+  Slough, Tara. 2026. "Bureaucratic Incentives and Data Production: Evidence from Social Registries."<br>
+ <div class="btn-group">
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/registers.pdf">[paper]</a></small></div>  
+ &nbsp;&nbsp;
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/registers_appendix.pdf">[appendix]</a></small></div>
+
+</div>
+
+  </li>
+
   <li>
   Slough, Tara. 2024. “Squeaky Wheels and Inequality in Bureaucratic Service Provision.” <br>
   <small>Previously titled: "Bureaucrats Driving Inequality in Access: Experimental Evidence from Colombia.</small><br>
@@ -255,10 +266,6 @@ Evidence from Colombia,” Conditionally accepted, <i>Journal of Politics</i>. <
 
   </li>
   
-      <li>
-  Slough, Tara. 2025. "Bureaucratic Incentives and Data Production: Evidence from Social Registries."<br>
-
-  </li>
 
 <li>
 Slough, Tara and Carolina Torreblanca. 2025. "Class and the Development of Trust in Police

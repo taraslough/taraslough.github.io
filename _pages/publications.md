@@ -26,6 +26,18 @@ nav_order: 2
 
 <ol>
 
+<li>
+  Garbiras-Díaz, Natalia and Tara Slough. 2026. “Government Oversight and Inter-Institutional Legibility:
+Evidence from Colombia,” Accepted, <i>Journal of Politics</i>. <br>
+  <div class="btn-group">
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/decentralized_data.pdf">[paper]</a></small></div>  
+ &nbsp;&nbsp;
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/decentralized_data_appendix.pdf">[appendix]</a></small></div>
+</div>
+
+  </li>
+
+
   <li>
   Slough, Tara and Scott A. Tyson. 2025. "Sign-Congruence, External Validity, and Replication." <i>Political Analysis</i>, 33(3): 195-210. <br>
   <div class="btn-group">
@@ -201,17 +213,7 @@ Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2025. “Preaching to the Cho
   </li>
   
 
- <li>
-  Garbiras-Díaz, Natalia and Tara Slough. 2025. “Government Oversight and Inter-Institutional Legibility:
-Evidence from Colombia,” Conditionally accepted, <i>Journal of Politics</i>. <br>
-  <div class="btn-group">
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/decentralized_data.pdf">[paper]</a></small></div>  
- &nbsp;&nbsp;
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/decentralized_data_appendix.pdf">[appendix]</a></small></div>
-</div>
-
-  </li>
-
+ 
 
       <li>
   Slough, Tara. 2026. "Bureaucratic Incentives and Data Production: Evidence from Social Registries."<br>

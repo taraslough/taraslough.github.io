@@ -26,6 +26,16 @@ nav_order: 2
 
 <ol>
 
+     <li>
+  Fu, Jiawei and Tara Slough. 2025. "Heterogeneous Treatment Effects and Causal Mechanisms." Accepted, <i> American Political Science Review. </i> <br>
+   <small>&#8594; Winner, 2024 Society for Political Methodology Gosnell Prize for the best political methodology paper presented in 2023</small><br>
+
+ <div class="button" width="60" height="100"><small><a href = "https://arxiv.org/abs/2404.01566">[paper + appendix]</a></small></div>  
+ 
+
+  </li>
+
+
 <li>
   Garbiras-Díaz, Natalia and Tara Slough. 2026. “Government Oversight and Inter-Institutional Legibility:
 Evidence from Colombia,” Accepted, <i>Journal of Politics</i>. <br>
@@ -203,14 +213,7 @@ Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2025. “Preaching to the Cho
 <h2 class="year">working papers</h2>
 <ol>
  
-     <li>
-  Fu, Jiawei and Tara Slough. 2025. "Heterogeneous Treatment Effects and Causal Mechanisms." Conditionally accepted, <i> American Political Science Review. </i> <br>
-   <small>&#8594; Winner, 2024 Society for Political Methodology Gosnell Prize for the best political methodology paper presented in 2023</small><br>
 
- <div class="button" width="60" height="100"><small><a href = "https://arxiv.org/abs/2404.01566">[paper + appendix]</a></small></div>  
- 
-
-  </li>
   
 
  

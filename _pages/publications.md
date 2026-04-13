@@ -26,13 +26,17 @@ nav_order: 2
 
 <ol>
 
-     <li>
-  Fu, Jiawei and Tara Slough. 2025. "Heterogeneous Treatment Effects and Causal Mechanisms." Accepted, <i> American Political Science Review. </i> <br>
+ <li>
+  Fu, Jiawei and Tara Slough. 2025. "Heterogeneous Treatment Effects and Causal Mechanisms." Forthcoming, <i> American Political Science Review. </i> <br>
    <small>&#8594; Winner, 2024 Society for Political Methodology Gosnell Prize for the best political methodology paper presented in 2023</small><br>
-
+  <div class="btn-group">
+     <div class="button" width="60" height="100"><small><a href = "https://doi.org/10.1017/S0003055426101580">[open access]</a></small></div>  
+ &nbsp;&nbsp;
  <div class="button" width="60" height="100"><small><a href = "https://arxiv.org/abs/2404.01566">[paper + appendix]</a></small></div>  
- 
-
+   &nbsp;&nbsp;
+      <div class="button" width="60" height="100"><small><a href = "https://doi.org/10.7910/DVN/G5EMO2">[replication]</a></small></div>  
+  &nbsp;&nbsp;
+</div>
   </li>
 
 
@@ -40,18 +44,27 @@ nav_order: 2
   Garbiras-Díaz, Natalia and Tara Slough. 2026. “Government Oversight and Inter-Institutional Legibility:
 Evidence from Colombia,” Accepted, <i>Journal of Politics</i>. <br>
   <div class="btn-group">
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/decentralized_data.pdf">[paper]</a></small></div>  
+   <div class="button" width="60" height="100"><small><a href = "https://www.journals.uchicago.edu/doi/10.1086/740729">[journal (ahead of print)]</a></small></div>  
+ &nbsp;&nbsp;
+  
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/decentralized_data.pdf">[pre-print]</a></small></div>  
  &nbsp;&nbsp;
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/decentralized_data_appendix.pdf">[appendix]</a></small></div>
+ &nbsp;&nbsp;
+ <div class="button" width="60" height="100"><small><a href = "https://doi.org/10.7910/DVN/ATICXR">[replication]</a></small></div>  
+ &nbsp;&nbsp;
 </div>
-
   </li>
 
 
   <li>
   Slough, Tara and Scott A. Tyson. 2025. "Sign-Congruence, External Validity, and Replication." <i>Political Analysis</i>, 33(3): 195-210. <br>
   <div class="btn-group">
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/sc_ev_r.pdf">[paper]</a></small></div>  
+   <div class="button" width="60" height="100"><small><a href = "https://doi.org/10.1017/pan.2024.26">[open access]</a></small></div>  
+ 
+ &nbsp;&nbsp;
+  
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/sc_ev_r.pdf">[pre-print]</a></small></div>  
  
  &nbsp;&nbsp;
   <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/sc_ev_r_appendix.pdf">[appendix]</a></small></div>  
@@ -63,11 +76,17 @@ Evidence from Colombia,” Accepted, <i>Journal of Politics</i>. <br>
     <li>
 Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2025. “Preaching to the Choir: A Problem of Participatory Interventions.” <i>Journal of Politics </i>, 87(2): 739-756. <br>
   <div class="btn-group">
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/preaching.pdf">[paper]</a></small></div>  
+  <div class="button" width="60" height="100"><small><a href = "https://doi.org/10.1086/732983">[journal]</a></small></div>  
+ &nbsp;&nbsp;
+
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/preaching.pdf">[pre-print]</a></small></div>  
  &nbsp;&nbsp;
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/preaching_appendix.pdf">[appendix]</a></small></div>
 &nbsp;&nbsp;
-<div class="button" width="60" height="100"><small><a href = "https://doi.org/10.24433/CO.0479587.v1">[replication]</a></small></div>
+<div class="button" width="60" height="100"><small><a href = "https://doi.org/10.7910/DVN/VY4FMR">[replication]</a></small></div>  
+ &nbsp;&nbsp;
+
+
 </div>
 
 
@@ -270,7 +289,14 @@ Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2025. “Preaching to the Cho
   Slough, Tara. 2025. "The Organizational Dynamics of Administrative Data Production."<br>
 
   </li>
-  
+  <li>
+Idrobo, Nicolás, Dorothy Kronick, and Tara Slough. 2025. "How Police and Crime Respond to Courts:
+Evidence from Colombia," R&R, <i>American Journal of Political Science. </i> <br>
+  <div class="btn-group">
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/courts.pdf">[paper + appendix]</a></small></div>  
+
+</div>
+</li>
 
 <li>
 Slough, Tara and Carolina Torreblanca. 2025. "Class and the Development of Trust in Police
@@ -284,14 +310,7 @@ in Latin America" <br>
 </li>
 
 
-<li>
-Idrobo, Nicolás, Dorothy Kronick, and Tara Slough. 2025. "How Police and Crime Respond to Courts:
-Evidence from Colombia" <br>
-  <div class="btn-group">
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/courts.pdf">[paper + appendix]</a></small></div>  
 
-</div>
-</li>
 
 <li>
 Slough, Tara and Scott A. Tyson. 2025. "Mechanisms: Attribution and Inference." 

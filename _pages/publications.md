@@ -247,10 +247,21 @@ Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2025. “Preaching to the Cho
 </div>
 
   </li>
+  
+        <li>
+  Slough, Tara. 2025. "The Organizational Dynamics of Administrative Data Production."<br>
+ <div class="btn-group">
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/orgdyn.pdf">[paper]</a></small></div>  
+ &nbsp;&nbsp;
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/orgdyn_appendix.pdf">[appendix]</a></small></div>
+
+</div>
+</li>
+  
 
   <li>
   Slough, Tara. 2024. “Squeaky Wheels and Inequality in Bureaucratic Service Provision.” <br>
-  <small>Previously titled: "Bureaucrats Driving Inequality in Access: Experimental Evidence from Colombia.</small><br>
+  <small>Previously titled: "Bureaucrats Driving Inequality in Access: Experimental Evidence from Colombia. Under contract, Cambridge Elements in Political Economy, Cambridge University Press.</small><br>
   <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/colombia_audit.pdf">[paper]</a></small></div>  
  &nbsp;&nbsp;
@@ -260,7 +271,16 @@ Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2025. “Preaching to the Cho
   </li>
 
   <li>
-  Slough, Tara. 2024. “Oversight, Capacity, and Inequality”, R&R <i>Political Science Research and Methods. </i> <br>
+Idrobo, Nicolás, Dorothy Kronick, and Tara Slough. 2025. "How Police and Crime Respond to Courts:
+Evidence from Colombia," R&R, <i>American Journal of Political Science. </i> <br>
+  <div class="btn-group">
+ <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/courts.pdf">[paper + appendix]</a></small></div>  
+
+</div>
+</li>
+
+  <li>
+  Slough, Tara. 2024. “Oversight, Capacity, and Inequality." <br>
   <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/oci.pdf">[paper]</a></small></div>  
   &nbsp;&nbsp;
@@ -285,18 +305,7 @@ Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2025. “Preaching to the Cho
 </div>
   </li>
   
-      <li>
-  Slough, Tara. 2025. "The Organizational Dynamics of Administrative Data Production."<br>
 
-  </li>
-  <li>
-Idrobo, Nicolás, Dorothy Kronick, and Tara Slough. 2025. "How Police and Crime Respond to Courts:
-Evidence from Colombia," R&R, <i>American Journal of Political Science. </i> <br>
-  <div class="btn-group">
- <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/courts.pdf">[paper + appendix]</a></small></div>  
-
-</div>
-</li>
 
 <li>
 Slough, Tara and Carolina Torreblanca. 2025. "Class and the Development of Trust in Police

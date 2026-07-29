@@ -260,8 +260,8 @@ Hanson, Rebecca, Dorothy Kronick, and Tara Slough. 2025. “Preaching to the Cho
   
 
   <li>
-  Slough, Tara. 2024. “Squeaky Wheels and Inequality in Bureaucratic Service Provision.” <br>
-  <small>Previously titled: "Bureaucrats Driving Inequality in Access: Experimental Evidence from Colombia. Under contract, Cambridge Elements in Political Economy, Cambridge University Press.</small><br>
+  Slough, Tara. 2024. “Squeaky Wheels and Inequality in Bureaucratic Service Provision.” Under contract, Cambridge Elements in Political Economy, Cambridge University Press.<br>
+  <small>Previously titled: "Bureaucrats Driving Inequality in Access: Experimental Evidence from Colombia.</small><br>
   <div class="btn-group">
  <div class="button" width="60" height="100"><small><a href = "http://taraslough.github.io/assets/pdf/colombia_audit.pdf">[paper]</a></small></div>  
  &nbsp;&nbsp;
